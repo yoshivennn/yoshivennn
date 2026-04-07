@@ -73,11 +73,6 @@ I'm an **AI Engineer** from **Jakarta, Indonesia** — I stumbled into machine l
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshivennn&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yoshivennn&theme=tokyonight" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=yoshivennn&theme=tokyonight&hide_border=true" />
 </div>
 
